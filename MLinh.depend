@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1746198307 source:d:\mlinh\main.cpp
+	"init.h"
+	"texture.h"
+	"game.h"
+	"menu.h"
+	"draw.h"
+
+1746198307 d:\mlinh\init.h
+	<SDL.h>
+	<SDL_image.h>
+
+1746198307 d:\mlinh\texture.h
+	<SDL.h>
+	<string>
+
+1746198307 d:\mlinh\game.h
+
+1746198307 d:\mlinh\menu.h
+	<SDL.h>
+
+1746198307 d:\mlinh\draw.h
+
+1746198307 source:d:\mlinh\draw.cpp
+	"draw.h"
+	"init.h"
+	"texture.h"
+	"game.h"
+
+1746198307 source:d:\mlinh\game.cpp
+	"game.h"
+	<SDL.h>
+	<cstdlib>
+
+1746198307 source:d:\mlinh\init.cpp
+	"init.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1746198307 source:d:\mlinh\texture.cpp
+	"texture.h"
+	"init.h"
+	<SDL_image.h>
+	<iostream>
+
+1746198990 source:d:\mlinh\menu.cpp
+	"menu.h"
+	"init.h"
+	"texture.h"
+	"game.h"
+
+1746198307 source:d:\mlinh - copy\draw.cpp
+	"draw.h"
+	"init.h"
+	"texture.h"
+	"game.h"
+
+1746198307 d:\mlinh - copy\draw.h
+
+1746198307 d:\mlinh - copy\init.h
+	<SDL.h>
+	<SDL_image.h>
+
+1746198307 d:\mlinh - copy\texture.h
+	<SDL.h>
+	<string>
+
+1746198307 d:\mlinh - copy\game.h
+
+1746198307 source:d:\mlinh - copy\game.cpp
+	"game.h"
+	<SDL.h>
+	<cstdlib>
+
+1746198307 source:d:\mlinh - copy\init.cpp
+	"init.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1746198307 source:d:\mlinh - copy\main.cpp
+	"init.h"
+	"texture.h"
+	"game.h"
+	"menu.h"
+	"draw.h"
+
+1746198307 d:\mlinh - copy\menu.h
+	<SDL.h>
+
+1746198990 source:d:\mlinh - copy\menu.cpp
+	"menu.h"
+	"init.h"
+	"texture.h"
+	"game.h"
+
+1746198307 source:d:\mlinh - copy\texture.cpp
+	"texture.h"
+	"init.h"
+	<SDL_image.h>
+	<iostream>
+
